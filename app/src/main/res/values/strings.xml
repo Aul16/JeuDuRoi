@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">King Game</string>
+    <string name="btnStart">START</string>
+    <string name="btnValidatePlayer">OK</string>
+    <string name="tvPlayerName">Enter player\'s name</string>
+    <string name="tvKingName1">The king is </string>
+    <string name="validateKingChoice">NEXT</string>
+    <string name="btnNewRound">NEW ROUND</string>
+    <string name="btnMenu">MENU</string>
+    <string name="btnAddPlayer">+</string>
+    <string name="btnRemovePlayer">-</string>
+    <string name="tv_number_of_players">Number of players :</string>
+    <string name="btnOK">OK</string>
+    <string name="alertMenu">Are you sure to go back to menu ?</string>
+    <string name="alertMenuTitle">Warning</string>
+    <string name="alertMenuYes">Yes</string>
+    <string name="alertMenuCancel">Cancel</string>
+    <string name="tv_bug_off">OFF</string>
+    <string name="tv_bug_on">ON</string>
+    <string name="txtBugSwitch">BUG </string>
+</resources>

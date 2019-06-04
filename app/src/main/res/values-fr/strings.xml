@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeu Du Roi</string>
+    <string name="btnMenu">MENU</string>
+    <string name="btnNewRound">NOUVELLE MANCHE</string>
+    <string name="btnStart">COMMENCER</string>
+    <string name="btnValidatePlayer">VALIDER</string>
+    <string name="tvKingName1">"Le roi est "</string>
+    <string name="tvPlayerName">Entrer le nom des joueurs</string>
+    <string name="validateKingChoice">SUIVANT</string>
+    <string name="btnAddPlayer">+</string>
+    <string name="btnOK">OK</string>
+    <string name="btnRemovePlayer">-</string>
+    <string name="tv_number_of_players">"Nombre de joueurs : "</string>
+    <string name="alertMenu">Etes-vous sure de vouloir retourner au menu ?</string>
+    <string name="alertMenuCancel">Annuler</string>
+    <string name="alertMenuTitle">Attention</string>
+    <string name="alertMenuYes">Oui</string>
+    <string name="tv_bug_off">OFF</string>
+    <string name="tv_bug_on">ON</string>
+    <string name="txtBugSwitch">BUG</string>
+</resources>
